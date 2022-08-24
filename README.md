@@ -1,4 +1,4 @@
-# Projeto Tuts Rock - Estagio  🚀
+# Projeto Tunts Rocks - Estagio  🚀
 
 ### Passos para rodar o projeto: 
 
