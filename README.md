@@ -5,7 +5,7 @@
 
 ```bash
 # Primeiro passo: (Clonar o repositorio)
-$ git clone <https://github.com/joaolrocha/TRchallenge.git>
+$ git clone https://github.com/joaolrocha/TRchallenge.git
 
 # Segundo passo: (Instalar as dependencias)
 $ npm install
